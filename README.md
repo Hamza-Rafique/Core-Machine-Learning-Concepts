@@ -1,128 +1,169 @@
 # Core Machine Learning Concepts
 
+This repository outlines essential machine learning concepts and provides a list of resources to help you learn more about each topic.
+
 ## 1. Supervised Learning
-- **Description:** Learn models from labeled training data to make predictions.
-- **Preparation Resources:**
-  - [Supervised Learning - Coursera](https://www.coursera.org/learn/machine-learning)
-  - [Supervised Learning - edX](https://www.edx.org/learn/supervised-learning)
+**Description**:  
+Learn models from labeled training data to make predictions.
+
+**Preparation Resources**:
+- **Online Courses**:
+  - [Coursera](https://www.coursera.org/learn/machine-learning)
+  - [edX](https://www.edx.org/)
+  - [Udacity](https://www.udacity.com/)
+  - [Fast.ai](https://www.fast.ai/)
+- **Textbooks**:
+  - "Machine Learning" by Tom Mitchell
+  - "Deep Learning" by Ian Goodfellow et al.
+- **Research Papers**:
+  - [arXiv](https://arxiv.org/)
+  - [Google Scholar](https://scholar.google.com/)
+- **Online Communities**:
+  - [Stack Overflow](https://stackoverflow.com/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [Reddit](https://www.reddit.com/)
+
+**Subtopics**:
+- [Regression](#)  
+- [Classification](#)
+
+---
 
 ## 2. Unsupervised Learning
-- **Description:** Learn patterns from data without labeled outcomes.
-- **Preparation Resources:**
-  - [Unsupervised Learning - Coursera](https://www.coursera.org/specializations/unsupervised-learning)
-  - [Unsupervised Learning - Stanford University](https://online.stanford.edu/courses/unsupervised-learning)
-  
+**Description**:  
+Learn patterns from unlabeled data.
+
+**Preparation Resources**:
+- **Online Courses**:
+  - [Coursera](https://www.coursera.org/learn/machine-learning)
+  - [edX](https://www.edx.org/)
+  - [Udacity](https://www.udacity.com/)
+  - [Fast.ai](https://www.fast.ai/)
+- **Textbooks**:
+  - "Machine Learning" by Tom Mitchell
+  - "Deep Learning" by Ian Goodfellow et al.
+- **Research Papers**:
+  - [arXiv](https://arxiv.org/)
+  - [Google Scholar](https://scholar.google.com/)
+- **Online Communities**:
+  - [Stack Overflow](https://stackoverflow.com/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [Reddit](https://www.reddit.com/)
+
+**Subtopics**:
+- [Clustering](#)  
+- [Dimensionality Reduction](#)
+
+---
+
 ## 3. Reinforcement Learning
-- **Description:** Training models to make sequences of decisions by rewarding correct actions.
-- **Preparation Resources:**
-  - [Reinforcement Learning - DeepMind](https://deepmind.com/learning-resources)
-  - [Reinforcement Learning - Coursera](https://www.coursera.org/specializations/reinforcement-learning)
+**Description**:  
+Learn through trial and error, interacting with an environment.
+
+**Preparation Resources**:
+- **Online Courses**:
+  - [Coursera](https://www.coursera.org/learn/machine-learning)
+  - [edX](https://www.edx.org/)
+  - [Udacity](https://www.udacity.com/)
+  - [Fast.ai](https://www.fast.ai/)
+- **Textbooks**:
+  - "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto
+- **Research Papers**:
+  - [arXiv](https://arxiv.org/)
+  - [Google Scholar](https://scholar.google.com/)
+- **Online Communities**:
+  - [Stack Overflow](https://stackoverflow.com/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [Reddit](https://www.reddit.com/)
+
+---
 
 ## 4. Neural Networks
-- **Description:** Models inspired by the human brain structure to process data.
-- **Preparation Resources:**
-  - [Neural Networks - Coursera](https://www.coursera.org/learn/neural-networks-deep-learning)
-  - [Neural Networks - Udemy](https://www.udemy.com/course/deep-learning-a-z/)
+**Description**:  
+Learn from data using interconnected layers of artificial neurons.
 
-## 5. Decision Trees
-- **Description:** A tree-like model for decision making and classification tasks.
-- **Preparation Resources:**
-  - [Decision Trees - Towards Data Science](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)
-  - [Decision Trees - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+**Preparation Resources**:
+- **Online Courses**:
+  - [Coursera](https://www.coursera.org/learn/machine-learning)
+  - [edX](https://www.edx.org/)
+  - [Udacity](https://www.udacity.com/)
+  - [Fast.ai](https://www.fast.ai/)
+- **Textbooks**:
+  - "Deep Learning" by Ian Goodfellow et al.
+- **Research Papers**:
+  - [arXiv](https://arxiv.org/)
+  - [Google Scholar](https://scholar.google.com/)
+- **Online Communities**:
+  - [Stack Overflow](https://stackoverflow.com/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [Reddit](https://www.reddit.com/)
 
-## 6. Support Vector Machines (SVM)
-- **Description:** A supervised algorithm used for classification or regression.
-- **Preparation Resources:**
-  - [SVM - Scikit-Learn](https://scikit-learn.org/stable/modules/svm.html)
-  - [SVM - Coursera](https://www.coursera.org/learn/machine-learning)
+**Subtopics**:
+- [Artificial neurons](#)  
+- [Layers](#)  
+- [Backpropagation](#)
 
-## 7. Clustering (K-Means, Hierarchical)
-- **Description:** Grouping data points with similar characteristics together.
-- **Preparation Resources:**
-  - [Clustering - Coursera](https://www.coursera.org/lecture/unsupervised-learning/clustering-introduction-XFWLD)
-  - [Clustering - Stanford University](https://online.stanford.edu/courses/clustering-and-unsupervised-learning)
+---
 
-## 8. Linear Regression
-- **Description:** A simple approach to modeling the relationship between dependent and independent variables.
-- **Preparation Resources:**
-  - [Linear Regression - Coursera](https://www.coursera.org/lecture/machine-learning/linear-regression-with-one-variable-wEnTt)
-  - [Linear Regression - Khan Academy](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data)
+## 5. Common Machine Learning Algorithms
+**Description**:  
+Popular algorithms used in machine learning.
 
-## 9. Logistic Regression
-- **Description:** A statistical model used for binary classification tasks.
-- **Preparation Resources:**
-  - [Logistic Regression - Coursera](https://www.coursera.org/lecture/machine-learning/logistic-regression-NVjGV)
-  - [Logistic Regression - Scikit Learn](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+**Preparation Resources**:
+- **Online Courses**:
+  - [Coursera](https://www.coursera.org/learn/machine-learning)
+  - [edX](https://www.edx.org/)
+  - [Udacity](https://www.udacity.com/)
+  - [Fast.ai](https://www.fast.ai/)
+- **Textbooks**:
+  - "Machine Learning" by Tom Mitchell
+  - "Deep Learning" by Ian Goodfellow et al.
+- **Research Papers**:
+  - [arXiv](https://arxiv.org/)
+  - [Google Scholar](https://scholar.google.com/)
+- **Online Communities**:
+  - [Stack Overflow](https://stackoverflow.com/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [Reddit](https://www.reddit.com/)
 
-## 10. Principal Component Analysis (PCA)
-- **Description:** A technique to reduce the dimensionality of datasets while preserving variance.
-- **Preparation Resources:**
-  - [PCA - Coursera](https://www.coursera.org/lecture/machine-learning/principal-component-analysis-DlH1y)
-  - [PCA - Udemy](https://www.udemy.com/course/principal-component-analysis/)
+**Subtopics**:
+- [Linear Regression](#)  
+- [Logistic Regression](#)  
+- [Decision Trees](#)  
+- [Random Forests](#)  
+- [Support Vector Machines (SVMs)](#)  
+- [Naive Bayes](#)  
+- [K-Nearest Neighbors (KNN)](#)  
+- [Principal Component Analysis (PCA)](#)  
+- [K-Means Clustering](#)
 
-## 11. Gradient Descent
-- **Description:** An optimization algorithm for finding the minimum of a function.
-- **Preparation Resources:**
-  - [Gradient Descent - Towards Data Science](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
-  - [Gradient Descent - Coursera](https://www.coursera.org/lecture/machine-learning/gradient-descent-8SpIM)
+---
 
-## 12. Overfitting and Underfitting
-- **Description:** Problems where the model is too complex (overfitting) or too simple (underfitting).
-- **Preparation Resources:**
-  - [Overfitting & Underfitting - Coursera](https://www.coursera.org/lecture/machine-learning/diagnosing-bias-vs-variance-FQbbf)
-  - [Overfitting & Underfitting - GeeksforGeeks](https://www.geeksforgeeks.org/underfitting-and-overfitting-in-machine-learning/)
+## 6. Evaluation Metrics
+**Description**:  
+Metrics used to assess the performance of machine learning models.
 
-## 13. Hyperparameter Tuning
-- **Description:** The process of optimizing a model's settings for better performance.
-- **Preparation Resources:**
-  - [Hyperparameter Tuning - Coursera](https://www.coursera.org/learn/machine-learning/lecture/hxo3E/hyperparameter-tuning)
-  - [Hyperparameter Tuning - Towards Data Science](https://towardsdatascience.com/hyperparameter-tuning-c5619e7e6624)
+**Preparation Resources**:
+- **Online Courses**:
+  - [Coursera](https://www.coursera.org/learn/machine-learning)
+  - [edX](https://www.edx.org/)
+  - [Udacity](https://www.udacity.com/)
+  - [Fast.ai](https://www.fast.ai/)
+- **Textbooks**:
+  - "Machine Learning" by Tom Mitchell
+  - "Deep Learning" by Ian Goodfellow et al.
+- **Research Papers**:
+  - [arXiv](https://arxiv.org/)
+  - [Google Scholar](https://scholar.google.com/)
+- **Online Communities**:
+  - [Stack Overflow](https://stackoverflow.com/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [Reddit](https://www.reddit.com/)
 
-## 14. Cross-Validation
-- **Description:** A technique for evaluating a model’s performance by splitting data into training and testing sets.
-- **Preparation Resources:**
-  - [Cross-Validation - Scikit Learn](https://scikit-learn.org/stable/modules/cross_validation.html)
-  - [Cross-Validation - Towards Data Science](https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f)
-
-## 15. Ensemble Learning (Bagging, Boosting)
-- **Description:** Combining multiple models to improve performance (e.g., Random Forest, XGBoost).
-- **Preparation Resources:**
-  - [Ensemble Learning - Towards Data Science](https://towardsdatascience.com/ensemble-learning-bagging-boosting-d2317a1a957d)
-  - [Ensemble Learning - Coursera](https://www.coursera.org/lecture/machine-learning/ensemble-methods-B9pDS)
-
-## 16. Dimensionality Reduction
-- **Description:** Reducing the number of input variables in a model.
-- **Preparation Resources:**
-  - [Dimensionality Reduction - Coursera](https://www.coursera.org/learn/machine-learning/lecture/DjNVY/dimensionality-reduction)
-  - [Dimensionality Reduction - Udemy](https://www.udemy.com/course/dimensionality-reduction/)
-
-## 17. Natural Language Processing (NLP)
-- **Description:** Techniques for processing and analyzing human language data.
-- **Preparation Resources:**
-  - [NLP - Coursera](https://www.coursera.org/specializations/natural-language-processing)
-  - [NLP - Stanford University](https://online.stanford.edu/courses/cs224n-natural-language-processing-deep-learning)
-
-## 18. Feature Engineering
-- **Description:** Creating new input features from raw data to improve model performance.
-- **Preparation Resources:**
-  - [Feature Engineering - Coursera](https://www.coursera.org/projects/feature-engineering)
-  - [Feature Engineering - Towards Data Science](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
-
-## 19. Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score)
-- **Description:** Metrics used to evaluate the performance of a machine learning model.
-- **Preparation Resources:**
-  - [Model Evaluation Metrics - Towards Data Science](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
-  - [Model Evaluation Metrics - Coursera](https://www.coursera.org/lecture/machine-learning/evaluation-metrics-bR90O)
-
-## 20. Convolutional Neural Networks (CNN)
-- **Description:** A deep learning architecture for image and video recognition tasks.
-- **Preparation Resources:**
-  - [CNN - Coursera](https://www.coursera.org/learn/convolutional-neural-networks)
-  - [CNN - Stanford University](https://cs231n.github.io/convolutional-networks/)
-
-## 21. Recurrent Neural Networks (RNN)
-- **Description:** A type of neural network used for sequential data (e.g., time series, text).
-- **Preparation Resources:**
-  - [RNN - Coursera](https://www.coursera.org/learn/deep-neural-networks-with-pytorch/lecture/Btjgh/recurrent-neural-networks)
-  - [RNN - Stanford University](https://web.stanford.edu/class/cs224n/)
-
+**Subtopics**:
+- [Accuracy](#)  
+- [Precision](#)  
+- [Recall](#)  
+- [F1-score](#)  
+- [Mean Squared Error (MSE)](#)  
+- [Root Mean Squared Error (RMSE)](#)
