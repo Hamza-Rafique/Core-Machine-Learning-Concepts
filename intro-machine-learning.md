@@ -1,5 +1,8 @@
 # Introduction to Machine Learning
 
+![WhatsApp Image 2024-10-01 at 20 54 22](https://github.com/user-attachments/assets/44f416cd-df23-4b78-b714-6e42af8eb728)
+
+
 ## What is Machine Learning?
 
 Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables systems to learn from data and improve their performance without being explicitly programmed. ML algorithms identify patterns, make decisions, and predict outcomes based on input data.
