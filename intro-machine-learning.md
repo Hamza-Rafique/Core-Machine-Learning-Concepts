@@ -89,6 +89,5 @@ Machine learning is a subfield of artificial intelligence (AI) that involves the
 3. Practice with publicly available datasets (e.g., Iris, MNIST)
 4. Explore online courses and tutorials (e.g., Coursera, edX, Kaggle)
 
-Would you like me to explain any of these concepts further?
 
 
