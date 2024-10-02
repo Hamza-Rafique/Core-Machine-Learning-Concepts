@@ -6,9 +6,15 @@ Supervised learning is a type of machine learning where a model is trained on a 
 
 The goal is for the model to learn patterns and relationships between the input data and corresponding labels so that it can make accurate predictions on new, unseen data.
 
+![1_Iz7bCLrPTImnBDOOEyE3LA](https://github.com/user-attachments/assets/cbad9324-7c07-4f82-9098-c0bbbc186a80)
+
+
 ## Types of Supervised Learning
 
 There are two main types of supervised learning:
+
+![Supervised_ML_3](https://github.com/user-attachments/assets/038c68ed-55cc-49c1-98da-99bc26cfcb04)
+
 
 1. **Regression**
    - **Definition**: Regression tasks aim to predict continuous values based on input data.
