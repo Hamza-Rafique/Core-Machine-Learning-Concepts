@@ -44,15 +44,23 @@ There are two main types of supervised learning:
 1. **Linear Regression**
    - **Use**: For regression tasks where the goal is to predict a continuous value.
    - **Example**: Predicting sales figures based on advertising budgets.
-   
+
+   ![24bff7_36f35b924b434c8586d0e370e7c832d6~mv2](https://github.com/user-attachments/assets/2a442de7-51b1-4326-8ca3-5b4e2597aab9)
+   ![1_csk8XTXy0j__hm_kbkwxCw](https://github.com/user-attachments/assets/008c158e-04e0-456f-820d-4e3461f0da3f)
+
 2. **Logistic Regression**
    - **Use**: For binary classification tasks, used to predict whether something falls into one of two categories.
    - **Example**: Predicting whether a customer will buy a product or not based on their demographics.
+     ![log_reg](https://github.com/user-attachments/assets/9a369a79-9871-4c69-8edf-bab54cf76750)
    
 3. **Decision Trees**
    - **Use**: Used for both regression and classification tasks. It creates a tree-like model to make decisions based on input features.
    - **Example**: Predicting loan default based on customer income and credit score.
-   
+
+   ![Decision-tree](https://github.com/user-attachments/assets/762d284c-4d9f-418b-b919-3002fc71224e)
+
+   ![1_S10T4ah3_JqdQ-eY6Hau0Q](https://github.com/user-attachments/assets/173e36b7-b113-40cd-84f6-4a87028cc06e)
+
 4. **Random Forest**
    - **Use**: An ensemble learning method that combines multiple decision trees for improved accuracy. It can be used for both classification and regression.
    - **Example**: Predicting customer churn based on usage data.
