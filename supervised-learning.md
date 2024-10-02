@@ -23,6 +23,7 @@ There are two main types of supervised learning:
      - Predicting stock prices
      - Estimating the value of a car based on mileage and age
      - Forecasting weather conditions (e.g., temperature)
+       
 ![Normdist_regression](https://github.com/user-attachments/assets/ee596938-9d00-4469-8911-c94390b8b6b1)
 
 2. **Classification**
@@ -32,7 +33,9 @@ There are two main types of supervised learning:
      - Image recognition (e.g., identifying objects in an image)
      - Sentiment analysis (e.g., classifying customer reviews as positive, neutral, or negative)
      - Medical diagnosis (e.g., determining whether a patient has a disease based on symptoms and test results)
-       
+
+       ![download](https://github.com/user-attachments/assets/30dd528a-52b2-42e9-b91a-407d0d3d549c)
+
 ![1_vh3L9Mh2UhXlaswAv5M56Q](https://github.com/user-attachments/assets/cca1fc06-3a90-4ad9-814f-3e9c9908646d)
 
 
