@@ -64,7 +64,9 @@ There are two main types of supervised learning:
 4. **Random Forest**
    - **Use**: An ensemble learning method that combines multiple decision trees for improved accuracy. It can be used for both classification and regression.
    - **Example**: Predicting customer churn based on usage data.
-   
+
+   ![vz1f8191 Ensemble-of-decision-trees](https://github.com/user-attachments/assets/4cb3d811-bba5-48df-a746-d29a6cfa05e7)
+
 5. **Support Vector Machines (SVM)**
    - **Use**: Mostly used for classification tasks. It finds a hyperplane that best separates different classes of data.
    - **Example**: Classifying emails as spam or not spam.
