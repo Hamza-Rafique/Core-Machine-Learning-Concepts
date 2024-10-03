@@ -21,9 +21,9 @@ There are two main types of unsupervised learning tasks:
 
 ### 1. **Clustering**
 
-![clustering](https://github.com/user-attachments/assets/dd64399b-fd48-43d9-973b-87fb440f3ceb)
-
 Clustering involves grouping similar data points together based on their characteristics. The algorithm tries to find inherent groupings in the data.
+
+![clustering](https://github.com/user-attachments/assets/dd64399b-fd48-43d9-973b-87fb440f3ceb)
 
 **Common Models for Clustering:**
 - **K-Means**: Divides data into K clusters, minimizing the variance within each cluster.
@@ -38,6 +38,9 @@ Use clustering when you want to explore and group data into distinct categories 
 ### 2. **Dimensionality Reduction**
 
 Dimensionality reduction reduces the number of features or variables in the dataset, simplifying the data while preserving its essential information.
+
+![1669450152945](https://github.com/user-attachments/assets/69ce6073-62f9-44bb-8195-45bbf16e79ac)
+
 
 **Common Models for Dimensionality Reduction:**
 - **Principal Component Analysis (PCA)**: Reduces the dimensionality of data by projecting it onto directions that maximize variance.
